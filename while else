@@ -1,0 +1,19 @@
+i = 5
+while i < 100:
+  print(i)
+  i += 10
+else:
+  print("i is no longer less than 100")
+  
+  output:
+ 5
+15
+25
+35
+45
+55
+65
+75
+85
+95
+i is no longer less than 100
