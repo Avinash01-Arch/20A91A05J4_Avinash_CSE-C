@@ -1,0 +1,18 @@
+sum1=0
+for i in range(1,11):#sum for 1 to 10 numbers
+sum1=sum1+i #sum=0+1,1+2,3+3,9+4,12+5
+print(" i is %d and sum is %d" %(i,sum1))
+print("sum is %d" %sum1)
+'''
+i is 1 and sum is 1
+i is 2 and sum is 3
+i is 3 and sum is 6
+i is 4 and sum is 10
+i is 5 and sum is 15
+i is 6 and sum is 21
+i is 7 and sum is 28
+i is 8 and sum is 36
+i is 9 and sum is 45
+i is 10 and sum is 55
+sum is 55
+'''
